@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>সাব্বির আহমেদ জয়</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background: #f0f4f8;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
+    }
+
+    .card {
+      background: white;
+      padding: 2rem;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+      max-width: 350px;
+      text-align: center;
+    }
+
+    .card img {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      object-fit: cover;
+      margin-bottom: 1rem;
+    }
+
+    .card h2 {
+      margin: 0.5rem 0;
+      font-size: 1.6rem;
+    }
+
+    .card p {
+      color: #333;
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="card">
+    <img src="/mnt/data/file-9xN1t9sd2FdJJw26oc1cXM" alt="Sabbir Ahmed Joy">
+    <h2>সাব্বির আহমেদ জয়</h2>
+    <p>
+      পেশা: ছাত্র ও ব্যবসায়ী<br>
+      বয়স: ১৮ বছর<br><br>
+      আমি একজন উদ্যমী তরুণ, পড়াশোনার পাশাপাশি ব্যবসায়িক অভিজ্ঞতা অর্জনের চেষ্টা করছি। নতুন কিছু শেখা ও চ্যালেঞ্জ গ্রহণ করাই আমার পছন্দ।
+    </p>
+  </div>
+
+</body>
+</html>
